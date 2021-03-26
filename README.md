@@ -13,5 +13,3 @@ I'm a {Frontend and mobile} developer and CEO at Social Makers. I'm from Brazil 
 ![React](https://img.shields.io/badge/-React-1846EB?style=flat-square&logo=react&logoColor=fff)
 
 
-### Github stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EliMarins&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

@@ -7,8 +7,11 @@ I'm a {Frontend and mobile} developer and CEO at Social Makers. I'm from Brazil 
 
 ### Skills
 
-- Flutter
-- React/React Native
-- Java
-- PEGA
-- Java Android
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-1846EB?style=flat-square&logo=react&logoColor=fff)
+
+
+### Github stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EliMarins&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

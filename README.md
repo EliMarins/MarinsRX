@@ -7,7 +7,7 @@ Estudante do curso Bacharelado em Engenharia de Software. Vibrando em um só sen
 Cofundador de uma startup baiana chamada Social Makers com o objetivo de inclusão social e digital. 
 encurtador.com.br/bglry
 
-### Skills
+### Skills  :crossed_swords:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)

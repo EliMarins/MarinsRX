@@ -4,7 +4,7 @@
 
 ### Sobre mim
 Estudante do curso Bacharelado em Engenharia de Software. Vibrando em um só sentimento que é trabalhar com tecnologia e em uma busca incessante por aprendizado e experiência. Atualmente trabalhando como Desenvolvedor Front-end, mas apaixonado por tecnologias mobile e em específico o Flutter <3
-Cofundador de uma startup baiana chamada Social Makers com o objetivo de inclusão social e digital. [Cidadania Na Mão] (https://www.instagram.com/cddnamao/?utm_source=ig_profile_share&igshid=12vy4euxomel5)
+Cofundador de uma startup baiana chamada Social Makers com o objetivo de inclusão social e digital. [Cidadania Na Mão](https://www.instagram.com/cddnamao/?utm_source=ig_profile_share&igshid=12vy4euxomel5)
 
 ### Skills  :crossed_swords:
 
